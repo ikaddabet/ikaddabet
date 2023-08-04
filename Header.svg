@@ -1,9 +1,9 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="10 5 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <style>
 svg {
   width: 100%;
   position: fixed;
-  top: -1px;
+  top: 0;
   transform: rotate(180deg);
   overflow:visible;
 }
@@ -67,6 +67,7 @@ svg {
       }
     }
 }
+
 </style>
 
 <defs> 
