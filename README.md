@@ -1,5 +1,5 @@
 <!--header--> 
-  <img src="Header.svg" width="100%">
+  <!--<img src="Header.svg" width="100%">--> 
 
 <!--🌐WEBSITES: https://Maskthree.com/ -->
 <div align="center">
@@ -28,7 +28,7 @@
 
 <!--🐱CAT-->
 <p align="center">
-<img src="ProgramingCat.webp" width="100">
+<img src="ProgramingCat.webp" width="250">
 
 <!--<p align="center">
   <img alt="what you doin?" src="DevOnFire.gif" />
