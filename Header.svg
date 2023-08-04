@@ -4,7 +4,7 @@ svg {
   width: 100%;
   position: fixed;
   top: -1px;
-  transform: rotate(360deg);
+  transform: rotate(180deg);
   overflow:visible;
 }
 .wave {
